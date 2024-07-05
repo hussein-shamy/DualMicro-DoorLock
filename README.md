@@ -10,14 +10,6 @@ It is a good project to familiarise myself with embedded systems development.
 - avrdude (for flashing the microcontroller)
 - Double ATmega32
 
-### Directory Structure
-- `src/`: application code/ main function
-- `Common/`: types of target and common useful macros
-- `HAL/`: Hardware Abstraction Layer implementation
-- `MCAL/`: Microcontroller Abstraction Layer implementation
-- `Simulator/`: schematic design of the project for validation
-- `Debug/`: .elf file to be flashed
-
 ### Setting Up the Development Environment
 1. Install AVR-GCC:
     - On Debian/Ubuntu: `sudo apt-get install gcc-avr avr-libc`
