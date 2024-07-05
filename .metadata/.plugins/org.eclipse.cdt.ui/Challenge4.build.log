@@ -1,0 +1,20 @@
+13:10:38 **** Incremental Build of configuration Debug for project Challenge4 ****
+make all 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 Challenge4.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:     398 bytes (1.2% Full)
+(.text + .data + .bootloader)
+
+Data:          1 bytes (0.0% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+
+13:10:38 Build Finished. 0 errors, 0 warnings. (took 200ms)
+

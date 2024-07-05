@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.ui.wizards.new.project"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.cdt.ui.newCWizards"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
+		<item key="OUTSIDE_LOCATION" value="D:\Career\Bachelor of Engineering [2018-2023]\Courses - Tutorials\Tutor-led Courses\Embedded Systems Development 2023 [Mohamed Tarek]\[5] Micro-controller Interfacing II\I2C_hussein"/>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Career\Bachelor of Engineering [2018-2023]\Courses - Tutorials\Tutor-led Courses\Embedded Systems Development 2023 [Mohamed Tarek]\[3] Micro-controller Interfacing I\4.Timers\Timers_Eclipse_WS\Challenge4"/>
+			<item value="D:\Career\Bachelor of Engineering [2018-2023]\Courses - Tutorials\Tutor-led Courses\Embedded Systems Development 2023 [Mohamed Tarek]\[3] Micro-controller Interfacing I\4.Timers\Timers_Eclipse_WS\Exercise3"/>
+			<item value="D:\Career\Bachelor of Engineering [2018-2023]\Courses - Tutorials\Tutor-led Courses\Embedded Systems Development 2023 [Mohamed Tarek]\[5] Micro-controller Interfacing II\Mini_Project_3_Hussein_Elshamy"/>
+			<item value="D:\Career\Bachelor of Engineering [2018-2023]\Courses - Tutorials\Tutor-led Courses\Embedded Systems Development 2023 [Mohamed Tarek]\[Final Project] Door Locker Security System by Hussein El-Shamy"/>
+			<item value="D:\Career\Bachelor of Engineering [2018-2023]\Courses - Tutorials\Tutor-led Courses\Embedded Systems Development 2023 [Mohamed Tarek]\[Final Project] Door Locker Security System by Hussein El-Shamy\HU_EEPROM_I2C_Exercise"/>
+			<item value="D:\Career\Bachelor of Engineering [2018-2023]\Courses - Tutorials\Tutor-led Courses\Embedded Systems Development 2023 [Mohamed Tarek]\[5] Micro-controller Interfacing II\HU_EEPROM_I2C_Exercise"/>
+			<item value="D:\Career\Bachelor of Engineering [2018-2023]\Courses - Tutorials\Tutor-led Courses\Embedded Systems Development 2023 [Mohamed Tarek]\HU_EEPROM_I2C_Exercise"/>
+			<item value="D:\Career\Bachelor of Engineering [2018-2023]\Courses - Tutorials\Tutor-led Courses\Embedded Systems Development 2023 [Mohamed Tarek]\[5] Micro-controller Interfacing II\12.I2C\I2C_Eclipse_WS\EEPROM_I2C_Exercise"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="124"/>
+		<item key="DIALOG_Y_ORIGIN" value="274"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\Career\Projects\Courses Projects\DualMicro-DoorLock"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+</section>
